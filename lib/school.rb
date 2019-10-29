@@ -9,9 +9,9 @@ class School
   
 # expect(@school.roster.length).to eq(0)
 
-  def roster
-    @roster
-  end
+  # def roster
+  #   @roster
+  # end
   
   def add_student(name, grade)
     #check if a key is in the hash
